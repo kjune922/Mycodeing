@@ -26,7 +26,6 @@ for i in range(n): # 오각형이므로 5번 반복 , n이면 n번반복
   t.right(360/n) # 360을 5로 나누어서 외각을 구한다 , n으로 나누는게 n각형을 만듬
 t.end_fill()
 
-
 t.mainloop()
 
 

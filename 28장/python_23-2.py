@@ -18,7 +18,7 @@ word == ''.join(reversed(word))
 # N-gram 만들기
 
 # 문자열에서 N개의 연속된 요소를 추출하는 방법
-# 만약 "Hello"라는 문자열을 문자(글자)단위 2-gram으로 추출하면 다음과 같이 된다
+# 만약 "Hello"라는 문자열을 문자(글자)단위 2-gram으로 추출하면 다음과 같이 된다 
 
 text = 'Hello'
 

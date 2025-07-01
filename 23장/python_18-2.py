@@ -14,7 +14,7 @@ col,row = map(int,input().split())
 matrix = []
 # for  i in range(col):
 for j in range(row):
-  matrix.append(list(input()))
+  matrix.append(list(input())) # 2차원리스트의 안쪽요소들을 내가 입력한대로 만들기
 
 # 2차원리스트 꺼내서 출력
 
